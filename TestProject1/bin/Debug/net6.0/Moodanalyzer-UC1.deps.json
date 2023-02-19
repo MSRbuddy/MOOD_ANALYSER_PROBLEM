@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Moodanalyzer-UC1/1.0.0": {
+        "runtime": {
+          "Moodanalyzer-UC1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Moodanalyzer-UC1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
